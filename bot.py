@@ -14,7 +14,7 @@ from config import API_HASH, APP_ID, LOGGER, TG_BOT_TOKEN, TG_BOT_WORKERS, FORCE
 import pyrogram.utils
 
 pyrogram.utils.MIN_CHANNEL_ID =-1002354197520
-
+pyrogram.utils.MIN_CHANNEL_ID =-1002447512246
 ascii_art = """
 ░█████╗░░█████╗░██████╗░███████╗██╗░░██╗██████╗░░█████╗░████████╗███████╗
 ██╔══██╗██╔══██╗██╔══██╗██╔════╝╚██╗██╔╝██╔══██╗██╔══██╗╚══██╔══╝╚════██║
